@@ -325,6 +325,6 @@ Potential enhancements include:
 
 Hailey McCall
 
-LinkedIn: [Add LinkedIn URL]
+LinkedIn: www.linkedin.com/in/hailey-mccall
 
 GitHub: https://github.com/haileymccall
