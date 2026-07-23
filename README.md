@@ -268,46 +268,6 @@ Random Forest and XGBoost maintained strong performance across multiple validati
 
 ---
 
-## Challenges & Solutions
-
-### Challenge: Mixed Data Types
-
-The dataset contained both numerical and categorical variables.
-
-### Solution
-
-One-hot encoding techniques were used to convert categorical regions into machine-readable features.
-
----
-
-### Challenge: Selecting the Best Predictive Model
-
-Different algorithms can yield significantly different performance results.
-
-### Solution
-
-Multiple regression models were trained and evaluated using MSE, R², and cross-validation metrics to identify the strongest approach.
-
----
-
-## Key Learnings
-
-Through this project I gained experience with:
-
-- Data cleaning and preprocessing
-- Time-series feature extraction
-- Feature engineering
-- Regression modeling
-- Ensemble learning
-- Random Forest algorithms
-- XGBoost algorithms
-- Model evaluation using MSE and R²
-- Cross-validation techniques
-- Feature importance analysis
-- Predictive analytics workflows
-
----
-
 ## Future Improvements
 
 Potential enhancements include:
